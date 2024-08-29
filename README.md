@@ -1,2 +1,3 @@
 # Dart-Board-Runnable-Implementation-with-Swing
-In this project I create a simple Dart Board interface in java that implements the Runnable class, uses swing for UI, and reads and writes text files to save round history.
+### Description
+A Java project that features a Dart Board interface using the Runnable class and Swing for the UI. It includes reading and writing text files to save and load round histories.
